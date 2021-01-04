@@ -1,0 +1,13 @@
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csprojAssemblyReference.cache
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache

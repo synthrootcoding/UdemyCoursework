@@ -1,0 +1,13 @@
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\synth\OneDrive\Desktop\Programming\Udemy Coursework\C# Beginner\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
